@@ -32,6 +32,9 @@ Team
 Business Operations :-
 
 1.Employees signup and login page and dashboard: To authenticate and show status of work
+->Will be able to work on assign tasks
+->Will be able to update hours worked
+
 
 2.Project managers dashboard: To assign the works to the employees and to
 check the performance and activites of each.

@@ -1,6 +1,6 @@
 Title : System requirement specification for Online Project Managemnet System.
 
-Team: Direct customers, indirect customers, designer, archithect, business analyst and system analyst.
+Team: Customer organization, indirect customers, designer, archithect, business analyst and system analyst.
 
 Objective: Online project management system is a web based application which will provide all the managing features within a organization.
 
@@ -19,5 +19,28 @@ Delivery managers will hold the records of client as well as employees assigned 
 Delivery managers will be able to see how much project is completed and what are the things that are pending.
 Delivery managers will contact the client on completion of project and can showcase the prototype.
 Stakeholders can access the data through delivery managers updates.
+
+Non-functional requirements:
+
+Safety:
+Employees and managers credentials must be secured and there should be strong authentication required at the time of login.
+Organizations teams and projects must be kept secured.
+
+Maintainability:
+The web based application should be updated constantly and new safety features must be included in certain intervals.
+The maintainence will be done by the development as well as security team.
+
+Availability:
+The application should be up and running 24x7.
+The servers storing the database should be kept under high maintenance as to provide no lag executions.
+The load distribution should be efficient so that concurrent modifications can be done.
+
+Reliability:
+The scope of the application should be vast so that stakeholders can depend on it.
+The addition of new features should not affect the current running status of the application.
+
+Durability:
+There should not bean error when multiple tasks and projects were updated.
+Project managers will be able to assign multiple projects and delivery managers will be able to retrieve multiple data at the same time. 
 
 
