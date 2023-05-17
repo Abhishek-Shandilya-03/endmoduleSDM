@@ -1,0 +1,23 @@
+Title : System requirement specification for Online Project Managemnet System.
+
+Team: Direct customers, indirect customers, designer, archithect, business analyst and system analyst.
+
+Objective: Online project management system is a web based application which will provide all the managing features within a organization.
+
+Scope: This system will allow the managers in a organization to assign or remove employees from a particular project.
+It will help in team creation and management whenever there is a new project available.
+
+Functional Requirements: 
+
+Employees can register themselves through signUp portal providing there credentials.
+They can login and see their daily reports accordingly.
+Employees can also see the available projects, pending work and daily tasks.
+Project managers will be able to see all the activities of all employees.
+Project managers will have the admin authority to assign or remove projects and tasks.
+Project managers can create different teams of employees for different projects.
+Delivery managers will hold the records of client as well as employees assigned to projects.
+Delivery managers will be able to see how much project is completed and what are the things that are pending.
+Delivery managers will contact the client on completion of project and can showcase the prototype.
+Stakeholders can access the data through delivery managers updates.
+
+

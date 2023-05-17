@@ -1,0 +1,55 @@
+Business Entities :-
+
+1.Employee:
+ID
+Name
+Department
+Projects
+Working Hrs.
+
+2.Project Managers:
+ID
+Name
+Update Projects
+Teams
+
+3.Delivery managers
+ID
+Name
+Project status 
+Teams
+Deadline
+
+4.Stakeholders
+Company name
+Alter projects
+Add new features
+
+5.Projects
+Project name 
+Team
+
+Business Operations :-
+
+1.Employees signup and login page and dashboard: To authenticate and show status of work
+
+2.Project managers dashboard: To assign the works to the employees and to
+check the performance and activites of each.
+->Add employeeID to Project
+->Remove employeeId from project
+->Create a team through employeeID
+->Check working hours
+
+3.Delivery managers dashboard: To check the completion and delivery of projects.
+->Retrieve data from project managers
+->Check the status of each project
+->Remind deadline
+->Inform stakeholders 
+->Deliver projects
+
+4.Stakeholders : Can ask for changes at anytime during build.
+->Request some additional features to be added or removed
+->Ask for the delivery time
+
+
+  
